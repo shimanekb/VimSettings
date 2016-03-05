@@ -7,7 +7,7 @@ My custom vim settings
 3. For youcompletme
   1. install development tools and CMake: sudo apt-get install build-essential cmake
   2. sudo apt-get install python-dev
-  3. cd ~/.vim/bundle/YouCompleteMe
-    ./install.py --clang-completer
 4. Run command vim, then inside :PluginInstall
+5. cd ~/.vim/bundle/YouCompleteMe
+    ./install.py --clang-completer
 
