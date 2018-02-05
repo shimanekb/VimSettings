@@ -19,7 +19,7 @@ Plugin 'scrooloose/nerdtree'
 
 Plugin 'Raimondi/delimitMate'
 
-Plugin 'Valloric/YouCompleteMe'
+Plugin 'davidhalter/jedi-vim'
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
 filetype plugin indent on    " required
